@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/iexplorer">  
+<a href="https://top-ssilka-apps.github.io/.github/iexplorer">  
 <img src="https://img.shields.io/badge/💻_GET_iExplorer-navy?style=for-the-badge&logo=apple" alt="GET iExplorer">  
 </a>  
 </div>
